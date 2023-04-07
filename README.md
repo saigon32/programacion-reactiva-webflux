@@ -15,3 +15,5 @@ CREATE TABLE public.book
 	title text  NOT NULL,
 	author text NOT NULL
 )
+acceder al microservicio:
+http://localhost:8081/api/func/books/11
